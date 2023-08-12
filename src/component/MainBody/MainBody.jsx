@@ -1,7 +1,7 @@
 import React from "react";
 import "./MianBody.css";
 
-function MainBody() {
+const MainBody = () =>{
   return (
     <div className="main">
       
